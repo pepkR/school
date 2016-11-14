@@ -1,0 +1,1 @@
+gcc test_libft_partie_1.c libft.a && ./a.out
